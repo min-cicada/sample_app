@@ -9,7 +9,7 @@ gem 'turbolinks',   '2.3.0'
 gem 'jbuilder',     '2.2.3'
 gem 'sdoc',         '0.4.0', group: :doc
 gem 'ruby_dep' ,'1.3.0'#試しに
-gem  'listen' , '3.0.5'
+gem  'listen' , '3.0.5'#この2つをバージョン下げて入れてる
 
 
 group :development, :test do
